@@ -22,11 +22,11 @@ main/
 │   │   ├── data_visualisasi.csv
 │   │   └── ringkasan_hasil.txt
 │   │
-│   ├── visualisasi/
-│   │   ├── distribusi_uang_saku.png
-│   │   ├── qq_plot.png
-│   │   ├── perbandingan_varians.png
-│   │   └── rata_rata_uang_saku.png
+│   └── visualisasi/
+│       ├── distribusi_uang_saku.png
+│       ├── qq_plot.png
+│       ├── perbandingan_varians.png
+│       └── rata_rata_uang_saku.png
 │
 ├── poster/
 │   └── Perbedaan Rata-rata Pengeluaran Mahasiswa Berdasarkan Tempat Tinggal.png
