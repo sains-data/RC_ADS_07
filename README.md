@@ -90,14 +90,15 @@ Metode Analisis: ANOVA dan Kruskal-Wallis
 
 Jumlah Sampel per Kelompok:
 
-Asrama    Kos  Rumah 
+| Asrama | Kos | Rumah |
+| :----: | :-: | :---: |
+|   27   | 270 |  111  | 
 
-    27    270    111 
-
-Keputusan Hipotesis:
-- KEPUTUSAN: Tolak H0
-- KESIMPULAN: Terdapat perbedaan signifikan
-- p-value: 0.000274
+|                |     |
+|----------------|-----|
+| **Keputusan**  | : Tolak H0 |
+| **Kesimpulan** | : Terdapat perbedaan signifikan |
+| **p-value**    | : 0.000274 |
 
 # Paket R yang Digunakan
 Berikut adalah paket-paket R yang digunakan dalam analisis ini:
