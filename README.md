@@ -1,5 +1,5 @@
 # Ringkasan
-Proyek ini bertujuan untuk menganalisis perbedaan rata-rata pengeluaran makanan mahasiswa berdasarkan tempat tinggal (Rumah, Kos, Asrama) menggunakan metode ANOVA dan uji non-parametrik sebagai alternatif. Analisis ini menggunakan data survei mahasiswa Institut Teknologi Sumatera (ITERA) dengan fokus pada hubungan antara tempat tinggal dan pengeluaran makanan.
+Tugas ini bertujuan untuk menganalisis perbedaan rata-rata pengeluaran makanan mahasiswa berdasarkan tempat tinggal (Rumah, Kos, Asrama) menggunakan metode ANOVA dan uji non-parametrik sebagai alternatif. Analisis ini menggunakan data survei mahasiswa Institut Teknologi Sumatera (ITERA) dengan fokus pada hubungan antara tempat tinggal dan pengeluaran makanan.
 
 # Struktur Repositori
 ```
