@@ -45,12 +45,12 @@ Dataset utama berisi 458 responden dengan 19 variabel. Analisis ini terutama men
 1. Clone repositori ini:
 ```bash
 git clone https://github.com/sains-data/RC_ADS_07.git
-cd analisis-pengeluaran-makanan-mahasiswa
+cd ADS_07_RC
 ```
 
 2. Buka RStudio dan atur working directory ke folder project:
 ```r
-setwd("path/to/analisis-pengeluaran-makanan-mahasiswa")
+setwd("path/to/ADS_07_RC")
 ```
 
 3. Install paket yang diperlukan:
@@ -62,11 +62,6 @@ install.packages(c("dplyr", "ggplot2", "car", "ggpubr", "tidyr", "rstatix", "dun
 4. Jalankan script analisis utama:
 ```r
 source("code/analisis_anova.R")
-```
-
-5. Untuk mengekspor hasil analisis ke format CSV:
-```r
-source("code/export_results.R")
 ```
 
 # Hasil Analisis
