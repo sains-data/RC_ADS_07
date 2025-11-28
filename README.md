@@ -91,6 +91,7 @@ Metode Analisis: ANOVA dan Kruskal-Wallis
 Jumlah Sampel per Kelompok:
 
 Asrama    Kos  Rumah 
+
     27    270    111 
 
 Keputusan Hipotesis:
