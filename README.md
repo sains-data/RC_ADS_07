@@ -30,6 +30,7 @@ main/
 │
 ├── poster/
 │   └── Perbedaan Rata-rata Pengeluaran Mahasiswa Berdasarkan Tempat Tinggal.png
+│
 └── README.md
 ```
 
