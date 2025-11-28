@@ -1,0 +1,24 @@
+RINGKASAN HASIL ANALISIS
+========================
+
+Judul Analisis: Perbedaan Rata-Rata Pengeluaran Makanan Mahasiswa Berdasarkan Tempat Tinggal
+Metode Analisis: ANOVA dan Kruskal-Wallis
+
+Jumlah Sampel per Kelompok:
+
+Asrama    Kos  Rumah 
+    27    270    111 
+
+Keputusan Hipotesis:
+- KEPUTUSAN: Tolak H0
+- KESIMPULAN: Terdapat perbedaan signifikan
+- p-value: 0.000274
+
+File yang dihasilkan:
+- data_bersih.csv: Data yang sudah dibersihkan
+- statistik_deskriptif.csv: Statistik per kelompok
+- hasil_anova.csv: Tabel ANOVA lengkap
+- hasil_kruskal.csv: Hasil uji Kruskal-Wallis
+- hasil_posthoc_tukey.csv: Hasil uji post-hoc Tukey (jika tersedia)
+- data_visualisasi.csv: Data untuk visualisasi
+- ringkasan_hasil.txt: File ini
